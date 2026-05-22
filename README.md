@@ -1,3 +1,5 @@
+Moniwatter Edge Computing
+
 Sistema Edge Computing responsável pela coleta, processamento e gerenciamento local de dados do ecossistema Moniwatter.
 
 O projeto busca reduzir latência, otimizar comunicação entre dispositivos e permitir monitoramento em tempo real através de processamento na borda.
