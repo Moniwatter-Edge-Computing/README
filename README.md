@@ -1,4 +1,4 @@
-## Moniwatter Edge Computing
+## Hydric Monitoring System
 
 Sistema Edge Computing responsável pela coleta, processamento e gerenciamento local de dados do ecossistema Moniwatter.
 
